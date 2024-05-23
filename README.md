@@ -2,10 +2,11 @@
 
 <br/>
 <h3 align="center">👋 Hi, I am Jean-Charles Alinquant from Ireland 🇮🇪.</h3>
-<h3 align="center" style="padding: 100px;"> I am passionate about every facet of software development and architecture, particularly specialising in C# programming. Strong advocate for the principles of Clean Code for code readability. Fervently promoting code reusability and maintainability through application of SOLID Principles.</h3>
+<h3 align="center" style="padding: 100px;"> I am passionate about every facet of software development and architecture, particularly specialising in C# programming. Strong advocate for the principles of Clean Code for code readability. Fervently promoting code reusability and maintainability through application of SOLID Principles using modern C# features including delegates, lambda expressions, tuples, extension methods, string interpolation, asynchronous programming, nullable reference types, along with robust code review practices. 
+To keep pace with the ever-evolving landscape of technology, I regularly engage in online courses and refine my skills through hands-on coding projects in my personal time.</h3>
 
 <div align="center">
-  🔭 I’m currently experimenting with **Python**
+  🔭 I’m currently experimenting with .Net WepAPIs and Microservices.
 
 📫 How to reach me: jcalinquant@hotmail.com
 
